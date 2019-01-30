@@ -1,8 +1,0 @@
-<html>
-	<head>
-		<title>BOFIE</title>
-	</head>
-	<body>
-what is up did it work
-	</body>
-</html>
