@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, white, DarkBlue);
+  background: linear-gradient(to bottom, black, Magenta);
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
@@ -7,5 +7,5 @@ body {
 }
 
 h1{
-  color: Fuchsia;
+  color: DarkBlue;
 }
