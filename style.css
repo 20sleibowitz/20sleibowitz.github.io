@@ -21,7 +21,8 @@
 }
 
 body {
-  background: linear-gradient(to bottom right, black, Magenta);
+  "Lucida Sans Unicode", "Lucida Grande", sans-serif
+  background-image: url("https://i.ytimg.com/vi/_-M4oECEWbM/maxresdefault.jpg");
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
@@ -29,6 +30,7 @@ body {
 }
 
 h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
   color: MediumSpringGreen;
 }
 button:hover{
