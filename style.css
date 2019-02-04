@@ -3,7 +3,7 @@
   background-color: deepskyblue;
   justify-content: flex-end;
 }
-.banner > Button{
+.banner > a{
   color: Magenta;
   background-color: deepskyblue;
   margin: 10 px;
