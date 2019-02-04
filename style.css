@@ -35,6 +35,7 @@ body {
 h1{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: MediumSpringGreen;
+  margin-bottom: 50 px;
 }
 button:hover{
   background-color: Lime;
