@@ -2,21 +2,15 @@
   display: flex;
   background-color: deepskyblue;
   justify-content: flex-end;
-  justify-content: space-around;
 }
 .banner > a{
   color: Magenta;
   margin: 10 px;
   padding: 20 px;
-  font-size: 30 px;
+  font-size: 10 px;
 }
-.bottom{
-  display: inline;
-}
-.bottom > div{
-  background-color: Blue;
-}
-.left{
+
+.bottom-links{
   float: left;
   border: 3px solid Magenta;
   padding: 10px;
@@ -30,7 +24,7 @@
 
 body {
   "Lucida Sans Unicode", "Lucida Grande", sans-serif
-  background-image: url(https://i.ytimg.com/vi/_-M4oECEWbM/maxresdefault.jpg));
+  background-image: url("http://nerdrepository.com/wp-content/uploads/2017/05/blade-runner-2049-trailer-1078x516.jpg");
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
