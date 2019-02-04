@@ -13,6 +13,7 @@
   float: left;
   border: 3px solid Magenta;
   padding: 10px;
+  c
 }
 .right{
   float: right;
@@ -36,5 +37,8 @@ h1{
 button:hover{
   background-color: Lime;
   align-items: flex-start;
+}
 
+ul{
+  color: Black;
 }
