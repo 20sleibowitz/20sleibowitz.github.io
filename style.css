@@ -1,13 +1,20 @@
 .banner{
   display: flex;
-  background-color: MediumSpringGreen;
-
+  background-color: deepskyblue;
+  justify-content: flex-end;
+  justify-content: space-around;
 }
-.banner > div{
-  background-color: Magenta;
+.banner > a{
+  color: Magenta;
   margin: 10 px;
   padding: 20 px;
   font-size: 30 px;
+}
+.bottom{
+  display: inline;
+}
+.bottom > div{
+  background-color: Blue;
 }
 .left{
   float: left;
@@ -23,7 +30,7 @@
 
 body {
   "Lucida Sans Unicode", "Lucida Grande", sans-serif
-  background-image: image("calming background.jpg");
+  background-image: url(https://i.ytimg.com/vi/_-M4oECEWbM/maxresdefault.jpg));
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
