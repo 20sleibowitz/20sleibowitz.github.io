@@ -1,3 +1,13 @@
+.flex-container{
+  display: flex;
+  background-color: MediumSpringGreen;
+}
+.flex-container > div{
+  background-color: Magenta;
+  margin: 10 px;
+  padding: 40 px;
+  font-size: 30 px;
+}
 body {
   background: linear-gradient(to bottom right, black, Magenta);
   color: MediumSpringGreen;
