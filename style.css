@@ -15,6 +15,9 @@
   padding: 1em;
   color: white;
 }  
+.banner a:hover {
+  background: darken(deepskyblue, 2%);
+}
 .footer{
   display: flex;
   justify-content: center;
