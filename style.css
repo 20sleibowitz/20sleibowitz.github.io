@@ -10,7 +10,8 @@
   padding: 20 px;
   font-size: 
 }    
-footer{
+.footer{
+  display: flex;
   bottom: 0;
   position: fixed;
   text-align: center;
@@ -18,15 +19,14 @@ footer{
   border: 3px solid Magenta;
   padding: 5px;
 }
-.right{
-  float: right;
-  border: 3px solid Magenta;
-  padding: 10px;
+
+.footer > ul{
+color: deepskyblue  
 }
 
 body {
   "Lucida Sans Unicode", "Lucida Grande", sans-serif
-  background-image: url(blade runner.jpg);
+  background: url("blade runner.jpg");
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
