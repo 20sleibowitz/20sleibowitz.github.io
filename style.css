@@ -1,3 +1,7 @@
+.cover {
+  background-image: url(img/blade runner.jpg);
+  background-size: cover;
+}
 .banner{
   display: flex;
   background-color: deepskyblue;
@@ -12,6 +16,7 @@
 }    
 .footer{
   display: flex;
+  justify-content: flex-start;
   bottom: 0;
   position: fixed;
   text-align: center;
@@ -22,11 +27,12 @@
 
 .footer > ul{
 color: deepskyblue  
+border: 1px solid Magenta;
+padding: 5px;
 }
 
 body {
   "Lucida Sans Unicode", "Lucida Grande", sans-serif
-  background: url("blade runner.jpg");
   color: MediumSpringGreen;
   font-family: sans-serif;
   text-align: center;
