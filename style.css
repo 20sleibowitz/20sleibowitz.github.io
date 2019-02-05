@@ -3,12 +3,12 @@
   background-color: deepskyblue;
   justify-content: flex-end;
 }
-.banner > a{
+.banner > div{
   color: Lime;
   background-color: deepskyblue;
   margin: 10 px;
   padding: 20 px;
-  font-size: 10 px;
+  font-size: 5 px;
 }
 
 .bottomlinks{
