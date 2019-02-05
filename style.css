@@ -11,7 +11,10 @@
   font-size: 
 }    
 footer{
-  float: left;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
   border: 3px solid Magenta;
   padding: 5px;
 }
