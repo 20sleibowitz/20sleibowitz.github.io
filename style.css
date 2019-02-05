@@ -9,7 +9,7 @@
   text-decoration: none;
   display: block;
   padding: 1em;
-  color: white;
+  color: Magenta;
 }  
 .banner a:hover {
   background: darken(deepskyblue, 2%);
