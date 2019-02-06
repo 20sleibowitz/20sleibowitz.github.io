@@ -5,13 +5,15 @@
   background-color: deepskyblue;
   justify-content: flex-end;
 }
-.banner a {
-  text-decoration: none;
+.banner div {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 40%;
   display: block;
   padding: 1em;
   color: Magenta;
+  
 }  
-.banner a:hover {
+.banner div:hover {
   background: darken(deepskyblue, 2%);
 }
 
@@ -23,12 +25,12 @@ background-color: black;
 .footer{
   display: flex;
   justify-content: center;
+  border: 1px solid Magenta;
 }
 
 .footer ulDiv{
 float: left;
 display: inline-block;
-border: 1px solid Magenta;
 }
 
 body {
