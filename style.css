@@ -25,11 +25,11 @@ text-size: 50%;
 .footer{
   display: flex;
   justify-content: center;
-  border: 1px solid Magenta;
+  border: 1px solid Lime;
   background-color: black;
-  box-shadow: 20px 20px Lime;
+  box-shadow: 20px 20px 20px 20px Lime;
 }
-
+ 
 .footer ulDiv{
 float: left;
 display: inline-block; 
