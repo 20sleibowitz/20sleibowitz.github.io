@@ -47,7 +47,7 @@ body {
 h1{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: Aqua;
-  margin-bottom: 500 px;
+  width: 300 px;
 }
 
 h1:hover {
