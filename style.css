@@ -18,7 +18,6 @@ box-shadow: 10px 10px white;
 
 .ulDiv{
 color: deepskyblue; 
-background-color: black;  
 margin: 50px 100px 0px 100px;  
 text-size: 50%; 
 }
@@ -27,6 +26,7 @@ text-size: 50%;
   display: flex;
   justify-content: center;
   border: 1px solid Magenta;
+  background-color: black;  
 }
 
 .footer ulDiv{
@@ -54,5 +54,4 @@ h1:hover {
 }
 button:hover{
   background-color: Lime;
-  align-items: flex-start;
 }
