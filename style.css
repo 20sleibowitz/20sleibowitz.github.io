@@ -45,8 +45,12 @@ body {
 
 h1{
   font-family: "Comic Sans MS", cursive, sans-serif;
-  color: MediumSpringGreen;
+  color: Aqua;
   margin-bottom: 500 px;
+}
+
+h1:hover {
+  box-shadow: 10px 10px 50px Lime;
 }
 button:hover{
   background-color: Lime;
