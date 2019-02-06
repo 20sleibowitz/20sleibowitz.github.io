@@ -2,7 +2,7 @@
   display: flex;
   list-style: none;
   margin: 0;
-  background-color: deepskyblue;
+  background-color: Aqua;
   justify-content: flex-end;
 }
 .banner div {
@@ -10,7 +10,7 @@
   font-size: 40%;
   display: block;
   padding: 1em;
-  color: Magenta;
+  color: Black;
   
 }  
 .banner div:hover {
@@ -50,9 +50,3 @@ button:hover{
   background-color: Lime;
   align-items: flex-start;
 }
-
-ul{
-  color: Black;
-}
-
-
