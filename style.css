@@ -14,14 +14,20 @@
 .banner a:hover {
   background: darken(deepskyblue, 2%);
 }
-.footer{
-  display: flex;
+
+.ulDiv{
+color: deepskyblue; 
 }
 
-.footer div{
-color: deepskyblue  
+.footer{
+  display: flex;
+  
+}
+
+.footer ulDiv{
+float: left;
+display: inline-block;
 border: 1px solid Magenta;
-padding: 5px;
 }
 
 body {
