@@ -53,11 +53,17 @@ h1{
 h1:hover {
   box-shadow: 10px 10px 50px Lime;
 }
+
+button{
+  font-size: 70%;
+}
+
 button:hover{
   background-color: Lime;
 }
 
 input{
   background-color: Lime;
+  font-size: 70%;
 }
 
