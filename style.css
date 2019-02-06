@@ -22,7 +22,7 @@ background-color: black;
 
 .footer{
   display: flex;
-  
+  justify-content: center;
 }
 
 .footer ulDiv{
