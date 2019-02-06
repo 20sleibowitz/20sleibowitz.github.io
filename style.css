@@ -1,6 +1,5 @@
 .banner{
   display: flex;
-  list-style: none;
   margin: 0;
   background-color: Aqua;
   justify-content: flex-end;
@@ -20,6 +19,7 @@
 .ulDiv{
 color: deepskyblue; 
 background-color: black;  
+margin: 50 px 100 px 50 px 100 px;  
 }
 
 .footer{
