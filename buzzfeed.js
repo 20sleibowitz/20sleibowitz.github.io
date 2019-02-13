@@ -4,6 +4,7 @@ function whenButtonClicked(){
   }).toArray();
  
  document.write(choices);
+ document.write("test");
  
 // var mostCommonElement = choices[0]
  // for(var x = 0; x < choices.length; x++){
