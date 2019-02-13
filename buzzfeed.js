@@ -1,3 +1,3 @@
 function whenButtonClicked(){
- document.getElementById("enterbutt").innerHTML = "YOU CLICKED ME!";  
+ document.getElementById("banner").innerHTML = "YOU CLICKED ME!";  
 }
